@@ -1,2 +1,2 @@
-# KahveAt-lyesi
-Kahve doğadan gelen bir ilhamdır, bizde onu sanatla şekillendiriyoruz.
+KahveAtölyesi
+Kahve, doğadan gelen bir ilhamdır, bizde onu sanatla şekillendiriyoruz.
